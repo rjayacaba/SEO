@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div.nav-wrapper {
+	margin-left: 9px;
+}
+nav.container{
+	margin-top: 5px;
+}
+b.sub-topic{
+	color: #ff5252;
+}
+
+.parallax-container {
+      height: 550px;
+    }
+
+p {
+	line-height: 2rem;
+}
+p.mean {
+	text-align: left;
+}
+h5.brown-text {
+	text-align: center;
+}
+
+section.grey-bg {
+	background-color: #f5f5f5;
+}
+div.feedback {
+	background-color: #000000;
+}
+div#comment1{
+	margin-top: 10px;
+}
+h3#pinky{
+	color: #ff4081;
+}
+form {
+	color: white;
+}
+h5#whity {
+	color: #fafafa;
+	text-align: center;
+}
+.buttonHolder {
+	 text-align: center; 
+}
+
+p#section-3 {
+	line-height: 2.5rem;
+}
+li {
+	margin-left: 5px;
+}
+
+img {
+	float: left;
+}
+div.parallax {
+	position: relative;
+}
+i {
+	color: #ff4081;
+}
+b.sub-topic {
+	text-align: left;
+}
+p.sub-topic {
+	text-align: left;
+	color: #ff4081;
+}
+.side {
+	float: right;
+}
+
+ol li {
+	line-height: 3rem;
+}
