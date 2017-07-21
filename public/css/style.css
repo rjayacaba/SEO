@@ -73,6 +73,9 @@ p.sub-topic {
 	text-align: left;
 	color: #ff4081;
 }
+p {
+	color: black;
+}
 .side {
 	float: right;
 }
