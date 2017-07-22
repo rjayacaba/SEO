@@ -56,6 +56,9 @@ p#section-3 {
 li {
 	margin-left: 5px;
 }
+i#menu {
+	color: #ffffff;
+}
 
 img {
 	float: left;
@@ -84,3 +87,4 @@ p {
 ol li {
 	line-height: 3rem;
 }
+
